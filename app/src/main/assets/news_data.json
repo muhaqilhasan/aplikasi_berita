@@ -1,0 +1,46 @@
+[
+  {
+    "id": 1,
+    "category": "Teknologi",
+    "title": "Peluncuran Ponsel Lipat Generasi Terbaru Mengguncang Pasar",
+    "author": "Budi Santoso",
+    "date": "16 Des 2025",
+    "time": "09:30 WIB",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "content": "Pasar smartphone kembali memanas dengan peluncuran seri terbaru ponsel lipat...",
+    "summary": "Smartphone lipat terbaru hadir dengan inovasi engsel yang lebih kuat."
+  },
+  {
+    "id": 2,
+    "category": "Olahraga",
+    "title": "Timnas Indonesia Lolos ke Babak Final Piala Asia",
+    "author": "Siti Aminah",
+    "date": "15 Des 2025",
+    "time": "21:00 WIB",
+    "image": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "content": "Sejarah baru tercipta! Timnas Indonesia berhasil mengalahkan lawan tangguh...",
+    "summary": "Timnas Garuda memastikan tempat di final setelah pertandingan dramatis."
+  },
+  {
+    "id": 3,
+    "category": "Bisnis",
+    "title": "Saham Gabungan Menguat, Investor Asing Mulai Masuk",
+    "author": "Reza Rahardian",
+    "date": "16 Des 2025",
+    "time": "08:15 WIB",
+    "image": "https://images.unsplash.com/photo-1611974765270-ca1258634369?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "content": "Indeks Harga Saham Gabungan (IHSG) dibuka menguat pada perdagangan pagi ini...",
+    "summary": "IHSG hijau di pembukaan pasar pagi ini didorong sentimen global positif."
+  },
+  {
+    "id": 4,
+    "category": "Wisata",
+    "title": "Surga Tersembunyi di Timur Indonesia",
+    "author": "Dian Sastro",
+    "date": "14 Des 2025",
+    "time": "10:00 WIB",
+    "image": "https://images.unsplash.com/photo-1596423985392-4927b23395c9?ixlib=rb-1.2.1&auto=format&fit=crop&w=800&q=80",
+    "content": "Tidak hanya Bali, Indonesia bagian timur menyimpan keindahan alam...",
+    "summary": "Destinasi wisata baru di Indonesia Timur mulai menarik perhatian."
+  }
+]
