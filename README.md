@@ -17,12 +17,12 @@ Berikut adalah tampilan antarmuka dari aplikasi Berita Kita:
 
 | Halaman Beranda | Detail Berita |
 | :---: | :---: |
-| <img src="screenshots/home_screen.png" width="250" alt="Halaman Beranda"> | <img src="screenshots/detail_screen.png" width="250" alt="Halaman Detail"> |
+| <img src="screenshots/home_screen.jpeg" width="250" alt="Halaman Beranda"> | <img src="screenshots/detail_screen.jpeg" width="250" alt="Halaman Detail"> |
 | **Tampilan Headline & List** | **Tampilan Baca Berita** |
 
 | Fitur Pencarian | Halaman Bookmark |
 | :---: | :---: |
-| <img src="screenshots/search_screen.png" width="250" alt="Fitur Pencarian"> | <img src="screenshots/saved_screen.png" width="250" alt="Halaman Disimpan"> |
+| <img src="screenshots/search_screen.jpeg" width="250" alt="Fitur Pencarian"> | <img src="screenshots/saved_screen.jpeg" width="250" alt="Halaman Disimpan"> |
 | **Mencari Berita** | **Daftar Berita Disimpan** |
 
 > **Catatan untuk Pengembang:**
